@@ -1,1 +1,1 @@
-# Simple proxy server using Golang.#
+# Simple proxy server using Golang.
