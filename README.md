@@ -1,6 +1,3 @@
-# Simple proxy server using Golang.
+# Simple reverse proxy server using Golang.
 
-|-> client --> proxy --> server
-|
-|
-|-> server --> proxy --> client
+Client --> Proxy --> TargetServer | TargetServer --> Proxy --> Client
